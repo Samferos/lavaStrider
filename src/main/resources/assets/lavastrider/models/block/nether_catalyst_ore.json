@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "lavastrider:block/nether_catalyst_ore"
+  }
+}
